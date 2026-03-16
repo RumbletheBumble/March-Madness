@@ -1,1 +1,1 @@
-This repository holds the main HTML document for Christopher Loyd's March Madness project created in May 2025. There will also be supplemental Excel files, Python code, and R code that was used in the analysis portions of this project.
+This repository holds the main HTML document for Christopher Loyd's March Madness project created in May 2025. There will also be supplemental Excel files, Python code, and R code that was used in the analysis portions of this project. Please look at the March Madness HTML file first and then peruse the supplement code as you wish.
